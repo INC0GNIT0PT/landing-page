@@ -1,2 +1,1 @@
-# landing-page
-The Odin Project - Foundations - Project: Landing Page
+This project have the main objective do a landing page with the some tasks.
